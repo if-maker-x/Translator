@@ -17,7 +17,6 @@
 ### 1. 启动后端
 
 ```powershell
-cd F:\codex\translate\backend
 npm install
 npm run dev
 ```
@@ -27,7 +26,6 @@ npm run dev
 ### 2. 启动前端
 
 ```powershell
-cd F:\codex\translate\frontend
 npm install
 npm run dev
 ```
